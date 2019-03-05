@@ -1,0 +1,29 @@
+<package>
+	<id>com.bytafont.bytafont3</id>
+	<name>BytaFont 3</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Custom fonts for ios</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>No screenshots for this item.</description>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
